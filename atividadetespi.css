@@ -1,0 +1,19 @@
+body {
+    background-color:  black ;
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  button{
+    color: red;
+  }
+  footer{
+    color: aliceblue;
+  }
+  button1{
+    color:darkred ;
+   
+  }
